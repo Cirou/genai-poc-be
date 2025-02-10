@@ -1,0 +1,7 @@
+com\example\taskflow\model\Task.class
+com\example\taskflow\dto\TaskDTO.class
+com\example\taskflow\controller\TaskController.class
+com\example\taskflow\repository\TaskRepository.class
+com\example\taskflow\model\TaskStatus.class
+com\example\taskflow\service\TaskService.class
+com\example\taskflow\config\AppConfig.class
